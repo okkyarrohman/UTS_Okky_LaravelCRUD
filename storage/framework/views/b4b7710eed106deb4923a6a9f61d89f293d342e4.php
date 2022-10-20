@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\UTSOkkyPembasdat\resources\views/livewire/post.blade.php ENDPATH**/ ?>
